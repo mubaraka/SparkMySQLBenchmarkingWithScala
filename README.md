@@ -1,5 +1,6 @@
 # SparkMySQLBenchmarkingWithScala
 Spark MySql Becnhmarking With Scala (Amazon AuroraDB)
+[![Build Status](https://travis-ci.org/smileofninja/SparkMySQLBenchmarkingWithScala.svg?branch=master)](https://travis-ci.org/smileofninja/SparkMySQLBenchmarkingWithScala)
 
 Along with Spark Mysql is Pretty Fast. These are the Benchmnarks. Also coming to the **Amazon AuroraDB** which is a New Cost-Effective MySQL-Compatible Database Engine for Amazon RDS which is claimed to be **5X faster** than regular MySQL.  So the below Bench Mark Results can be Multiplied by 5 to get the Bencmark Results for the Amazon AuroraDB
 
